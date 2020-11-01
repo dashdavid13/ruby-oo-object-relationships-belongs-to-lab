@@ -1,17 +1,6 @@
 class Artist
-
-    attr_accessor :name 
-
+    attr_accessor :name
     def initialize
-        @name = name
-    end 
-
-
-
-
-
-
-
-
+      @name = name   
+    end
 end 
-#jim = Author.new 
